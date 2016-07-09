@@ -6,9 +6,9 @@ color:
   saturation: 0.9724622429348528
   rhythmicContrast: 0.41716008982621133
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Natural Dan
